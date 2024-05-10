@@ -34,7 +34,7 @@ API for interacting with the Kiwistand P2P node, including adding messages and l
 
 Documentation:
 
-attestate.com/kiwistand/main/http-api.html
+[attestate.com/kiwistand/main/http-api.html](https://attestate.com/kiwistand/main/http-api.html)
 
 ### 4. Kiwi on crypto app stores
 
